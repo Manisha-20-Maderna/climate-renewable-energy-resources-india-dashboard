@@ -126,7 +126,7 @@ The `combine.ipynb` notebook contains:
 
 1. Clone or download this repository.
 2. Open `combine.ipynb` in Jupyter Notebook to explore or update data.
-3. Explore Tableau screenshots in the `visualizations/` folder.
+3. Explore Tableau screenshots in the `Dashboard_screenshot/` folder.
 4. Optionally, import updated datasets into Tableau to build your own dashboards.
 
 ---
