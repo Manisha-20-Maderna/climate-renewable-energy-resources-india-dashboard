@@ -58,7 +58,7 @@ Climate-Energy-India/
 
 ### 🔹 2020 Dashboard
 
-![2020 Dashboard](visualizations/Screenshot_2020.png)
+<img src="Dashboard_screenshot/2020-dashboard.png" alt="2020 Dashboard" width="800"/>
 
 - **Top Wind State:** Gujarat (52,507 GWh)
 - **Top Solar State:** Rajasthan (40,536 kWh)
@@ -70,7 +70,7 @@ Climate-Energy-India/
 
 ### 🔹 2021 Dashboard
 
-![2021 Dashboard](visualizations/Screenshot_2021.png)
+<img src="Dashboard_screenshot/2021-dashboard.png" alt="2021 Dashboard" width="800"/>
 
 - **Top Wind State:** Gujarat (68,670 GWh)
 - **Top Solar State:** Rajasthan (54,541 kWh)
@@ -83,7 +83,7 @@ Climate-Energy-India/
 
 ### 🔹 2022 Dashboard
 
-![2022 Dashboard](visualizations/Screenshot_2022.png)
+<img src="Dashboard_screenshot/2022-dashboard.png" alt="2022 Dashboard" width="800"/>
 
 - **Top Wind State:** Gujarat (74,353 GWh)
 - **Top Solar State:** Rajasthan (125,442 kWh)
@@ -96,7 +96,7 @@ Climate-Energy-India/
 
 ### 🔹 2023 Dashboard
 
-![2023 Dashboard](visualizations/Screenshot_2023.png)
+<img src="Dashboard_screenshot/2023-dashboard.png" alt="2023 Dashboard" width="800"/>
 
 - **Top Wind State:** Gujarat (96,272 GWh)
 - **Top Solar State:** Rajasthan (150,516 kWh)
