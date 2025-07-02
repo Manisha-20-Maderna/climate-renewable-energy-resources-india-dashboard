@@ -1,5 +1,5 @@
 
-Climate Change & Renewable Energy Resources in India 🌞🌬️🌱
+## Climate Change & Renewable Energy Resources in India 🌞🌬️🌱
 
 This project analyzes climate conditions and renewable energy generation across Indian states from **2019 to 2023** using data preprocessing in Python and interactive dashboards in Tableau.
 
@@ -26,16 +26,15 @@ This project analyzes climate conditions and renewable energy generation across 
 ```
 Climate-Energy-India/
 │
-├── data/
-│   └── combine.ipynb
-│
-├── visualizations/
+├── datasets/
+├── Dashboard_screenshot/
 │   ├── Screenshot_2019.png
 │   ├── Screenshot_2020.png
 │   ├── Screenshot_2021.png
 │   ├── Screenshot_2022.png
 │   └── Screenshot_2023.png
-│
+├──combine.ipynb
+├──
 └── README.md
 ```
 
