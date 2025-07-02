@@ -24,17 +24,16 @@ This project analyzes climate conditions and renewable energy generation across 
 ## 🗂️ Repository Structure
 
 ```
-Climate-Energy-India/
-│
+Climate-Energy-resources-India/
 ├── datasets/
 ├── Dashboard_screenshot/
-│   ├── Screenshot_2019.png
-│   ├── Screenshot_2020.png
-│   ├── Screenshot_2021.png
-│   ├── Screenshot_2022.png
-│   └── Screenshot_2023.png
+│   ├──2019-dashboard.png
+│   ├──2020-dashboard.png
+│   ├──2021-dashboard.png
+│   ├──2022-dashboard.png
+│   └──2023-dashboard.png
+├──all_states_combined_aligned.xlsx
 ├──combine.ipynb
-├──
 └── README.md
 ```
 
@@ -131,7 +130,3 @@ The `combine.ipynb` notebook contains:
 4. Optionally, import updated datasets into Tableau to build your own dashboards.
 
 ---
-
-## 📬 Contact
-
-For suggestions, feedback, or collaboration feel free to open an issue or contact via GitHub.
