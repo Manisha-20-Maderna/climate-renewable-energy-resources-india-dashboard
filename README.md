@@ -45,7 +45,7 @@ Climate-Energy-India/
 
 ### 🔹 2019 Dashboard
 
-![2019 Dashboard](2019-dashboard.png)
+<img src="Dashboard_screenshot/2019-dashboard.png" alt="2019 Dashboard" width="800"/>
 
 - **Top Wind State:** Gujarat (58,792 GWh)
 - **Top Solar State:** Rajasthan (27,317 kWh)
